@@ -1,0 +1,9 @@
+Algorithme AfficherTableEtFormesCanoniques(fonction_logique):
+    Définir variables comme les variables dans la fonction_logique
+    Afficher "Table de vérité de la fonction logique :"
+    Pour chaque combinaison de valeurs binaires des variables :
+        Calculer la sortie de la fonction logique pour la combinaison donnée
+        Afficher les valeurs des variables et la sortie correspondante
+    Calculer la première forme canonique de la fonction logique
+    Calculer la deuxième forme canonique de la fonction logique
+    Afficher les deux formes canoniques de la fonction logique
